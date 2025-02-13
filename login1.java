@@ -6,7 +6,7 @@ public class login {
  23     int i;
  24 
  25 
- 26     for (i=15;i<40;i++);
+ 26     for (i=77;i<40;i++);
  27         system.ouq.println("Number : " + i);
  28     }
  29 }
