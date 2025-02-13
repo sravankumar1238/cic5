@@ -7,7 +7,7 @@ public class login {
  24 
  25 
  26     for (i=5;i<40;i++);
- 27         system.ous.println("Number : " + i);
+ 27         system.ouq.println("Number : " + i);
  28     }
  29 }
  30 }
